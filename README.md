@@ -19,13 +19,6 @@ Beginning .NET developer. I am currently studying at the third year in Gomel Sta
 
 # 📊 GitHub Stats: 
 
-<!-- markdownlint-disable MD033 -->
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="270"/>
-</span>
-<!-- markdownlint-enable MD033 -->
-
 ![](https://github-readme-stats.vercel.app/api?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
