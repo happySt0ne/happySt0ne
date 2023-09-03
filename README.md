@@ -19,7 +19,7 @@ Beginning .NET developer. I am currently studying at the third year in Gomel Sta
 # 📊 GitHub Stats:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300" height="280"/>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=happySt0ne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
