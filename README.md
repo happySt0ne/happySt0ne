@@ -2,13 +2,15 @@
 
 ---
 
-### :neckbeard: About me:
+### :feelsgood: About me:
 
 Beginning .NET developer. I am currently studying at the third year in Gomel State Technical University named after P. O. Sukhoi. 
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
+
+:mailbox: how to get in touch: ![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/HAPPY_STONE [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:konovalchuk.denis@gmail.com)
 
 ---
 
@@ -21,5 +23,3 @@ Beginning .NET developer. I am currently studying at the third year in Gomel Sta
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
