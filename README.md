@@ -4,7 +4,7 @@
 
 ### :feelsgood: About me:
 
-Beginning .NET developer. I am currently studying at the third year in Gomel State Technical University named after P. O. Sukhoi. 
+Beginning C# developer. I am currently studying at the fourth year in Gomel State Technical University named after P. O. Sukhoi. 
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
